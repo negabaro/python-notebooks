@@ -1,0 +1,4 @@
+https://github.com/mokemokechicken/jupyter-tensorflow/blob/master/Dockerfile
+
+imageが2GBだけど
+R,python2,python3,tensorflow環境もあったのでこれで
